@@ -1,4 +1,4 @@
 # project1
 This is my first repository
 <br>
-Author -Shradda Kapra
+Author -Shradda Kapra (apna college)
